@@ -1,8 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.js linguist-detectable=false
 
-# Set PHP as the language
-*.php linguist-language=PHP
+# Mark all files as vendored to hide language statistics
+* linguist-vendored=true
