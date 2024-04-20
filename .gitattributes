@@ -5,4 +5,10 @@
 
 # Set PHP as the language
 *.php linguist-language=PHP
+
+# Set Laravel as the framework for PHP files
+*.php linguist-vendored=false
+*.php artisan linguist-detectable=false
+
+# Set JavaScript as the language
 *.js linguist-language=JavaScript
