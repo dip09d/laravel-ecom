@@ -2,7 +2,7 @@
 * text=auto
 *.html linguist-detectable=false
 *.css linguist-detectable=false
-*.JavaScript linguist-detectable=false
+*.js linguist-detectable=false
 
 # Set PHP as the language
 *.php linguist-language=PHP
